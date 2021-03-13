@@ -1,0 +1,27 @@
+{
+  "name": "webpack_test",
+  "version": "1.0.0",
+  "description": "webpack_test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Derek-94/webpack-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Derek-94/webpack-study/issues"
+  },
+  "homepage": "https://github.com/Derek-94/webpack-study#readme",
+  "devDependencies": {
+    "webpack": "^5.25.0",
+    "webpack-cli": "^4.5.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
